@@ -1,0 +1,3 @@
+Teste: Login com usuário válido | Status: OK;undefined;undefined;
+Teste: Cadastro sem email | Status: ERRO;undefined;undefined;
+Teste de login;aprovado;17/12/2025;Executado com sucesso
